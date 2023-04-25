@@ -1,3 +1,3 @@
 node_modules
-.env;
-helper.json;
+.env
+helper.json
