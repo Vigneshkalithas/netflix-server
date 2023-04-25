@@ -1,0 +1,17 @@
+[
+  {
+    "email": "adminnetflix@gmail.com",
+    "password": "admin@123",
+    "role": "admin"
+  },
+  {
+    "email": "managerflix@gmail.com",
+    "password": "manager@123",
+    "role": "manager"
+  },
+  {
+    "email": "usernetflix@gmail.com",
+    "password": "user@123",
+    "role": "user"
+  }
+]
